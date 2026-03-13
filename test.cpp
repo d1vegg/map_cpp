@@ -37,3 +37,4 @@ int main() {
 	show_map(map, width, height);
 	return 0;
 }
+
